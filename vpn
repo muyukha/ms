@@ -1,0 +1,12 @@
+[Interface]
+Address = 10.0.0.10/32
+PrivateKey = +LUzEajvLtaMFos4KZo0TAA/fHPUvhPIDaqI2wmrsWk=
+DNS = 1.1.1.1
+MTU = 1450
+
+[Peer]
+PublicKey = Q4ClcBcA5EhBzoPrX5Icl3YNAKSBBEcaknvhNFU4tyg=
+PresharedKey = qpXNX2eu6Z4usJEacoOZKPnJPItAEbPxT3BT5h/NieA=
+AllowedIPs = 10.0.0.0/24
+Endpoint = 49.12.131.179:51820
+PersistentKeepalive = 15
